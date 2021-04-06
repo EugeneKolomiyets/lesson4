@@ -56,7 +56,7 @@ public class arr {
                     minId=j;
                 }
             }
-           //ctrl+alt+b создать переменную
+           //ctrl+alt+b создать переменную 
             //enum;
 
             if (ar[i]!=min){
