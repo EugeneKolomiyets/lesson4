@@ -41,6 +41,7 @@ public class arr {
               }
         }while (flag);
         System.out.println(Arrays.toString(ar));
+        //сортировка выбором selection sort
         Random random = new Random();
         for (int i = 0; i < ar.length; i++) {
             ar[i] = random.nextInt(100);
